@@ -1,7 +1,7 @@
 ![](dino.gif)
 ### Hi there 👋
 
-I'm Giovanni Moratto, Front-End Developer.  
+I'm Giovanni Moratto, Software Developer.  
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/Matheus0liveira)](https://www.linkedin.com/in/giovannimoratto/)&nbsp;&nbsp;&nbsp;&nbsp;
 
